@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kartika Panwar
 - 👀 I’m interested in working with data 
-- 🌱 I’m currently learning data analysis (transitioning career from environmental consultant to data analytics)
+- 🌱 I’m currently working as Business Intelligence Analyst at JLL.
 - 📫 How to reach me : kartika16panwar@gmail.com
 
 <!---
